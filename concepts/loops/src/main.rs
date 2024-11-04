@@ -10,5 +10,5 @@ fn returning_from_loop() -> u32 {
 }
 
 fn main() {
-    println!("{}", returning_from_loop())
+    println!("{}", returning_from_loop());
 }
